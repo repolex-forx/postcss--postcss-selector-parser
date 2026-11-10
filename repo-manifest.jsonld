@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/postcss/postcss-selector-parser/commit/7591d8d67f42fde79490d5e9c8fac0b8deb43fa2",
       "git:hexsha": "7591d8d67f42fde79490d5e9c8fac0b8deb43fa2",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "7.2.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "7.2.0",
+      "repolex:parsedAt": "2026-11-10T04:03:13.457722+00:00"
     },
     {
       "@id": "https://repolex.ai/r/postcss/postcss-selector-parser/commit/b47e255bbcafc6b30d540b761ad6c0438ec22795",
